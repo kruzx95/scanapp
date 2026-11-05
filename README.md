@@ -94,3 +94,4 @@ CREATE INDEX IF NOT EXISTS idx_expenses_user_date ON expenses(user_id, date DESC
    - Pada bagian **Build and deployment -> Source**, pilih **GitHub Actions**.
 4. GitHub Actions akan otomatis melakukan build dan deploy. Aplikasi Anda akan aktif di:
    `https://<username-github-anda>.github.io/scanapp/`
+
