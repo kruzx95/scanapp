@@ -3030,3 +3030,4 @@ git commit -m "chore(pwa): add pwa icons, manifest assets, and github actions de
   - GitHub Pages deploy: Handled in Task 13.
 - [x] **No Placeholders**: Every single step has actual code, exact filenames, commands, and expected outputs.
 - [x] **Type Consistency**: `Expense`, `ReceiptItem`, `GeminiReceiptResponse`, `ExpenseCategory`, `UserProfile` are shared identically across all tasks from `src/types/index.ts`.
+
